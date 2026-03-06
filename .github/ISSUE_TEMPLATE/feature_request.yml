@@ -1,0 +1,45 @@
+name: Feature Request
+description: Suggest a feature or improvement
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product is this about?
+      options:
+        - Anvil API
+        - Chain Indexer
+        - Wayup
+        - Minting/Staking
+        - Hodei Wallet
+        - Weld
+        - Barrow
+        - Merkle Tree
+        - Vault
+        - Hodei Client
+        - MetaDraft
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear description of the feature or improvement you would like.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this feature needed? What problem does it solve?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any alternative solutions or workarounds you have considered.
+    validations:
+      required: false

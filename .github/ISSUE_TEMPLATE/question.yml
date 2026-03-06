@@ -1,0 +1,38 @@
+name: Question
+description: Ask a question about any of our products
+labels: ["question"]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product is this about?
+      options:
+        - Anvil API
+        - Chain Indexer
+        - Wayup
+        - Minting/Staking
+        - Hodei Wallet
+        - Weld
+        - Barrow
+        - Merkle Tree
+        - Vault
+        - Hodei Client
+        - MetaDraft
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What would you like to know?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any additional context that might help us answer your question.
+    validations:
+      required: false

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security Vulnerability
+    url: mailto:security@ada-anvil.io
+    about: Do not report security vulnerabilities publicly. Email security@ada-anvil.io instead.
+  - name: Email Support
+    url: mailto:support@ada-anvil.io
+    about: Reach us directly via email for support inquiries.
