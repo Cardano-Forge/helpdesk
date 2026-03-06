@@ -7,7 +7,7 @@ This repository is the public issue tracker and support hub for Ada Anvil produc
 If you need help with any of our products, you have two options:
 
 1. **Open an issue** in this repository describing your problem or question.
-2. **Email us** at [support@ada-anvil.io](mailto:support@ada-anvil.io).
+2. **Email us** at <a href="mailto:support@ada-anvil.io" target="_blank" rel="noopener noreferrer">support@ada-anvil.io</a>.
 
 When opening an issue, please include:
 
@@ -20,11 +20,23 @@ When opening an issue, please include:
 
 **Do not open a public issue for security vulnerabilities.**
 
-If you discover a security issue in any of our products, please report it privately by emailing [security@ada-anvil.io](mailto:security@ada-anvil.io). We take security seriously and will respond promptly.
+If you discover a security issue in any of our products, please report it privately by emailing <a href="mailto:security@ada-anvil.io" target="_blank" rel="noopener noreferrer">security@ada-anvil.io</a>. We take security seriously and will respond promptly.
 
 See [SECURITY.md](SECURITY.md) for our full security policy.
 
 ## Products
+
+### Proprietary
+
+The following products are supported through this helpdesk:
+
+| Product                                                        | Description                      |
+| -------------------------------------------------------------- | -------------------------------- |
+| [Anvil API](https://dev.ada-anvil.io)                          | API services for Cardano developers |
+| [Wayup](https://wayup.io)                                      | NFT marketplace aggregator       |
+| [Exchange](https://exchange.ada-anvil.io/en/)                   | Crypto exchange platform         |
+| Minting/Staking                                                 | NFT minting and staking services |
+| [Hodei Wallet](https://hodei.io)                                | Cardano wallet solution          |
 
 ### Open Source
 
@@ -38,16 +50,6 @@ See [SECURITY.md](SECURITY.md) for our full security policy.
 | [MetaDraft](https://github.com/Cardano-Forge/MetaDraft)       | [@ada-anvil/metadraft-validator](https://www.npmjs.com/package/@ada-anvil/metadraft-validator) | Developer companion for Cardano NFTs with validations, data manipulation, and helpers |
 
 For issues related to these projects, please use their respective repositories. You can also open an issue here if preferred.
-
-### Proprietary
-
-The following products are supported through this helpdesk:
-
-- Anvil API
-- Chain Indexer
-- Wayup
-- Minting/Staking
-- Hodei Wallet
 
 ## Resources
 
