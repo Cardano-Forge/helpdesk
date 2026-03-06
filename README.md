@@ -22,7 +22,7 @@ When opening an issue, please include:
 
 If you discover a security issue in any of our products, please report it privately by emailing <a href="mailto:security@ada-anvil.io" target="_blank" rel="noopener noreferrer">security@ada-anvil.io</a>. We take security seriously and will respond promptly.
 
-See [SECURITY.md](SECURITY.md) for our full security policy.
+See <a href="SECURITY.md">SECURITY.md</a> for our full security policy.
 
 ## Products
 
@@ -32,28 +32,28 @@ The following products are supported through this helpdesk:
 
 | Product                                                        | Description                      |
 | -------------------------------------------------------------- | -------------------------------- |
-| [Anvil API](https://dev.ada-anvil.io)                          | API services for Cardano developers |
-| [Wayup](https://wayup.io)                                      | NFT marketplace aggregator       |
-| [Exchange](https://exchange.ada-anvil.io/en/)                   | Crypto exchange platform         |
-| Minting/Staking                                                 | NFT minting and staking services |
-| [Hodei Wallet](https://hodei.io)                                | Cardano wallet solution          |
+| <a href="https://dev.ada-anvil.io" target="_blank" rel="noopener noreferrer">Anvil API</a> | API services for Cardano developers |
+| <a href="https://wayup.io" target="_blank" rel="noopener noreferrer">Wayup</a> | NFT marketplace aggregator |
+| <a href="https://exchange.ada-anvil.io/en/" target="_blank" rel="noopener noreferrer">Exchange</a> | Crypto exchange platform |
+| Minting/Staking | NFT minting and staking services |
+| <a href="https://hodei.io" target="_blank" rel="noopener noreferrer">Hodei Wallet</a> | Cardano wallet solution |
 
 ### Open Source
 
 | Project                                                       | npm                                                                                            | Description                                                                           |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Weld](https://github.com/Cardano-Forge/weld)                 | [@ada-anvil/weld](https://www.npmjs.com/package/@ada-anvil/weld)                               | The last wallet connector you will need                                               |
-| [Barrow](https://github.com/Cardano-Forge/anvil-barrow)       | [@ada-anvil/barrow](https://www.npmjs.com/package/@ada-anvil/barrow)                           | Chain indexing tools for the Cardano blockchain                                       |
-| [Merkle Tree](https://github.com/Cardano-Forge/anvil-merkle)  | [@ada-anvil/merkle](https://www.npmjs.com/package/@ada-anvil/merkle)                           | TypeScript utilities for working with Merkle trees                                    |
-| [Vault](https://github.com/Cardano-Forge/anvil-vault)         | [@ada-anvil/vault](https://www.npmjs.com/package/@ada-anvil/vault)                             | TypeScript tools for generating and managing Cardano wallets                          |
-| [Hodei Client](https://github.com/Cardano-Forge/hodei-client) | [@ada-anvil/hodei-client](https://www.npmjs.com/package/@ada-anvil/hodei-client)               |                                                                                       |
-| [MetaDraft](https://github.com/Cardano-Forge/MetaDraft)       | [@ada-anvil/metadraft-validator](https://www.npmjs.com/package/@ada-anvil/metadraft-validator) | Developer companion for Cardano NFTs with validations, data manipulation, and helpers |
+| <a href="https://github.com/Cardano-Forge/weld" target="_blank" rel="noopener noreferrer">Weld</a> | <a href="https://www.npmjs.com/package/@ada-anvil/weld" target="_blank" rel="noopener noreferrer">@ada-anvil/weld</a> | The last wallet connector you will need |
+| <a href="https://github.com/Cardano-Forge/anvil-barrow" target="_blank" rel="noopener noreferrer">Barrow</a> | <a href="https://www.npmjs.com/package/@ada-anvil/barrow" target="_blank" rel="noopener noreferrer">@ada-anvil/barrow</a> | Chain indexing tools for the Cardano blockchain |
+| <a href="https://github.com/Cardano-Forge/anvil-merkle" target="_blank" rel="noopener noreferrer">Merkle Tree</a> | <a href="https://www.npmjs.com/package/@ada-anvil/merkle" target="_blank" rel="noopener noreferrer">@ada-anvil/merkle</a> | TypeScript utilities for working with Merkle trees |
+| <a href="https://github.com/Cardano-Forge/anvil-vault" target="_blank" rel="noopener noreferrer">Vault</a> | <a href="https://www.npmjs.com/package/@ada-anvil/vault" target="_blank" rel="noopener noreferrer">@ada-anvil/vault</a> | TypeScript tools for generating and managing Cardano wallets |
+| <a href="https://github.com/Cardano-Forge/hodei-client" target="_blank" rel="noopener noreferrer">Hodei Client</a> | <a href="https://www.npmjs.com/package/@ada-anvil/hodei-client" target="_blank" rel="noopener noreferrer">@ada-anvil/hodei-client</a> | |
+| <a href="https://github.com/Cardano-Forge/MetaDraft" target="_blank" rel="noopener noreferrer">MetaDraft</a> | <a href="https://www.npmjs.com/package/@ada-anvil/metadraft-validator" target="_blank" rel="noopener noreferrer">@ada-anvil/metadraft-validator</a> | Developer companion for Cardano NFTs with validations, data manipulation, and helpers |
 
 For issues related to these projects, please use their respective repositories. You can also open an issue here if preferred.
 
 ## Resources
 
-- **Documentation**: [dev.ada-anvil.io](https://dev.ada-anvil.io)
-- **Developer Portal (API Keys)**: [ada-anvil.io/api-keys](https://ada-anvil.io/api-keys)
+- **Documentation**: <a href="https://dev.ada-anvil.io" target="_blank" rel="noopener noreferrer">dev.ada-anvil.io</a>
+- **Developer Portal (API Keys)**: <a href="https://ada-anvil.io/api-keys" target="_blank" rel="noopener noreferrer">ada-anvil.io/api-keys</a>
 
 > **Note:** Both the documentation and the developer portal are actively being improved to facilitate data access. Expect frequent updates.
